@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityExample", "UnityExample\UnityExample.csproj", "{D1A2C140-6D97-4033-A8FD-B2F320534B2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastleWindsor", "CastleWindsor\CastleWindsor.csproj", "{13E5724C-DE4C-45C0-9AA4-4DBA363F6FE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructureMap", "StructureMap\StructureMap.csproj", "{C28DEECF-8D4D-4FCC-8277-50E0FA380BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapFramework", "StructureMapFramework\StructureMapFramework.csproj", "{294C78AC-966A-425E-9E3C-2C440A7A37C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocaf1", "Autocaf1\Autocaf1.csproj", "{38F940E7-E5D1-48CD-890C-3F14B16D711E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject1", "Ninject1\Ninject1.csproj", "{FBAD6065-C407-44F1-8EB8-F1C66DCB5DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SInjector", "SInjector\SInjector.csproj", "{10888901-527F-48D2-AE69-11F5D2E5A425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A2C140-6D97-4033-A8FD-B2F320534B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A2C140-6D97-4033-A8FD-B2F320534B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A2C140-6D97-4033-A8FD-B2F320534B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A2C140-6D97-4033-A8FD-B2F320534B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E5724C-DE4C-45C0-9AA4-4DBA363F6FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E5724C-DE4C-45C0-9AA4-4DBA363F6FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E5724C-DE4C-45C0-9AA4-4DBA363F6FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E5724C-DE4C-45C0-9AA4-4DBA363F6FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28DEECF-8D4D-4FCC-8277-50E0FA380BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28DEECF-8D4D-4FCC-8277-50E0FA380BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28DEECF-8D4D-4FCC-8277-50E0FA380BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28DEECF-8D4D-4FCC-8277-50E0FA380BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C78AC-966A-425E-9E3C-2C440A7A37C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C78AC-966A-425E-9E3C-2C440A7A37C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C78AC-966A-425E-9E3C-2C440A7A37C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C78AC-966A-425E-9E3C-2C440A7A37C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F940E7-E5D1-48CD-890C-3F14B16D711E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F940E7-E5D1-48CD-890C-3F14B16D711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F940E7-E5D1-48CD-890C-3F14B16D711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F940E7-E5D1-48CD-890C-3F14B16D711E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAD6065-C407-44F1-8EB8-F1C66DCB5DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAD6065-C407-44F1-8EB8-F1C66DCB5DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAD6065-C407-44F1-8EB8-F1C66DCB5DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAD6065-C407-44F1-8EB8-F1C66DCB5DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10888901-527F-48D2-AE69-11F5D2E5A425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10888901-527F-48D2-AE69-11F5D2E5A425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10888901-527F-48D2-AE69-11F5D2E5A425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10888901-527F-48D2-AE69-11F5D2E5A425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA09FBB4-5B1D-4167-9112-11A75564A050}
+	EndGlobalSection
+EndGlobal
